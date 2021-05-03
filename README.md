@@ -2,16 +2,25 @@
 
 Twitter Sentiment Analyser on telecommunication Data.
 This is a project I implemented for 4th year IIT student Himasha Peiris for her final year research. 
-
 ![Alt Text](HimashaPeiris.jpeg)
 ![Alt Text](Chamal.jpeg)
-![Alt Text](login.png)
-![Alt Text](home.png)
-![Alt Text](twitter.png)
-![Alt Text](userreviews.png)
-![Alt Text](login.png)
-![Alt Text](review1.png)
-![Alt Text](review2.png)
-![Alt Text](review3.png)
-![Alt Text](review4.png)
-![Alt Text](review5.png)
+
+Login Page
+![Alt Text](login.PNG)
+
+
+Home Page
+![Alt Text](home.PNG)
+
+Twitter Page
+![Alt Text](twitter.PNG)
+
+User Review Page
+![Alt Text](userreviews.PNG)
+
+Results
+![Alt Text](review1.PNG)
+![Alt Text](review2.PNG)
+![Alt Text](review3.PNG)
+![Alt Text](review4.PNG)
+![Alt Text](review5.PNG)
