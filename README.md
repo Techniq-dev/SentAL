@@ -1,2 +1,2 @@
 # SentAL
-![Alt Text](chamal)
+![Alt Text](chamal.jpeg)
