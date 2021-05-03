@@ -1,2 +1,2 @@
 # SentAL
-![Alt Text](Himasha Peiris)
+![Alt Text](chamal)
