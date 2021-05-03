@@ -19,8 +19,8 @@ User Review Page
 ![Alt Text](userreviews.PNG)
 
 Results
-![Alt Text](review1.PNG)
-![Alt Text](review2.PNG)
-![Alt Text](review3.PNG)
-![Alt Text](review4.PNG)
-![Alt Text](review5.PNG)
+![Alt Text](result1.PNG)
+![Alt Text](result2.PNG)
+![Alt Text](result3.PNG)
+![Alt Text](result4.PNG)
+![Alt Text](result5.PNG)
